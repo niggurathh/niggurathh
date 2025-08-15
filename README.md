@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently trying to pass the osed...
-- 🌱 I’m currently learning about reversing...
+- 🔭 Finally, i’m osce3 ;D
 - 💬 Ask me about hacking web...
 
 Contact: [Linkedin](https://www.linkedin.com/in/jairr/) [Twitter](https://twitter.com/_niggurath_)
